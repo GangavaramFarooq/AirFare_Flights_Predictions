@@ -1,2 +1,2 @@
 Model file (flight_price_model.pkl) can be downloaded from:
-Google Drive Link: [https://drive.google.com/file/d/1WEaJC9a0PmGW17jo7HnLwXb9SVsAhy1R/view?usp=sharing]
+Google Drive Link: ["https://drive.google.com/file/d/1WEaJC9a0PmGW17jo7HnLwXb9SVsAhy1R/view?usp=sharing"]
